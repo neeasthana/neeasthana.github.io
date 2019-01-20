@@ -4482,4 +4482,15 @@ dl.accordion.time-line:before {
   color: #8490ff;
 }
 
+.header-social a {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  text-align: center;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
 /*-------- end footer Area -------------*/
